@@ -21,11 +21,14 @@ General:
 
 Login server:
 - [x] Login user
+- [ ] Show EULA on first login
+- [ ] Perform gender select on first login
 - [X] Pin
 - [x] Display world ribbons
 - [x] Display world messages
 - [x] Display world status (e.g. overpopulated)
 - [x] World selection
+- [ ] Lock character creation on world if full
 - [x] Channel selection
 - [x] Create character
 - [x] Delete character
@@ -43,8 +46,8 @@ World server:
 - [x] Broadcast buddy events
 - [x] Broadcast party events
 - [ ] Broadcast guild events
-- [x] Forward whisphers
-- [ ] Allow gm command to actiavate exp/drop changes accross all channels
+- [x] Forward whispers
+- [x] Allow gm command to activate exp/drop changes across all channels
 - [ ] Allow gm commands to update information displayed at login
 
 Cashshop server:
